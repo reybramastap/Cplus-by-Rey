@@ -9,5 +9,6 @@ Sample Output:
 24
 
 Explanation:
-The first bus will transport 50 pessangers, leaving 126-50=76 in the station. The next one will leave 26 in the station, the last bus will take all the 26 passengers,
+The first bus will transport 50 pessangers, leaving 126-50=76 in the station.
+The next one will leave 26 in the station, the last bus will take all the 26 passengers,
 having 50-26=24 seats left empty.
