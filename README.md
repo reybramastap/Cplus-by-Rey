@@ -1,2 +1,2 @@
 # C-by-Rey
- I made these writings solely for my own satisfaction.
+ I write these words solely for my own satisfaction.
